@@ -1,5 +1,3 @@
-### Hi there 👋, my name is Bhakti
-#### Final year student @LNMIIT | Solved 300+ questions on leetcode | FullStack developer
 ![Final year student @LNMIIT | Solved 300+ questions on leetcode | FullStack developer](https://github.com/Bhakti342/Bhakti342/blob/main/Banner_Photo.png)
 
 Motivated and skilled programmer with expertise in C++ and web development. Passionate about keeping up with emerging technologies and collaborating effectively with team members.
